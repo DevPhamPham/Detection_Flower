@@ -1,0 +1,9 @@
+
+path: C:\Users\Admin\Desktop\Job\detection_hoamai_hoadao\data  # dataset root dir
+train: images\train  # train images (relative to 'path')
+val: images\train  # val images (relative to 'path')
+
+# Classes
+names:
+  0: hoadao
+  1: hoamai

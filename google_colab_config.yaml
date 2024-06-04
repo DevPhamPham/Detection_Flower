@@ -1,0 +1,9 @@
+
+path: '/content/gdrive/MyDrive/Jobs/phân loại hoa mai hoa đào/CustomDatasetForYoloV8' # dataset root dir
+train: images  # train images (relative to 'path')
+val: images  # val images (relative to 'path')
+
+# Classes
+names:
+  0: hoadao
+  1: hoamai
