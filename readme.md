@@ -39,7 +39,7 @@ Dự án này sử dụng YOLOv8, một mô hình phát hiện vật thể mạn
 [Video test](predict.mp4)
 
 <video width="auto" height="auto" controls>
-  <source src="predict.mp4" type="video/mp4">
+  <source src="predict" type="video/mp4">
   Trình duyệt của bạn không hỗ trợ thẻ video.
 </video>
 
@@ -48,6 +48,6 @@ Dự án này sử dụng YOLOv8, một mô hình phát hiện vật thể mạn
 [Video Predict](predict_out.mp4.mp4)
 
 <video width="auto" height="auto" controls>
-  <source src="predict_out.mp4" type="video/mp4">
+  <source src="predict_out" type="video/mp4">
   Trình duyệt của bạn không hỗ trợ thẻ video.
 </video>
