@@ -45,7 +45,7 @@ Dự án này sử dụng YOLOv8, một mô hình phát hiện vật thể mạn
 
 ## Video Predict
 
-[Video Predict](predict_out.mp4.mp4)
+[Video Predict](predict_out.mp4)
 
 <video width="auto" height="auto" controls>
   <source src="predict_out" type="video/mp4">
